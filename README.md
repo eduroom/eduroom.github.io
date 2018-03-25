@@ -1,2 +1,2 @@
-# eduroom.github.io
-soon page of eduroom
+# eduroom-soon
+comings soon page for eduroom 
